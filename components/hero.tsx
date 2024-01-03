@@ -9,23 +9,23 @@ export default function Hero() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4 text-header" data-aos="fade-up">
-              Radiance Cakes 🎂
+              Success Snacks 😋
             </h1>
             <p
               className="text-xl text-text mb-8"
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Indulge in the exquisite world of Radiance Cakes, where every
+              Indulge in the exquisite world of Success Snacks, where every
               slice is a symphony of flavors and each creation is meticulously
               crafted to elevate your moments with a touch of sweetness and
-              radiance.
+              eminence.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="btn text-white bg-gray-800 hover:text-text w-full mb-4 sm:w-auto sm:mb-0"
-                  href="https://api.whatsapp.com/send?phone=2347067907949&text=Hi,I would like to order cake"
+                  href="https://api.whatsapp.com/send?phone=2348122116509&text=Hi,I like your website."
                 >
                   Order Now 😋
                 </a>
