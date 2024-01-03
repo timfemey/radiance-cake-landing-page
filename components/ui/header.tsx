@@ -42,7 +42,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="https://api.whatsapp.com/send?phone=2347067907949&text=Hi,I would like to order cake"
+                  href="https://api.whatsapp.com/send?phone=2348122116509&text=Hi,I like your client website"
                   className="btn-sm text-text bg-gray-100 hover:bg-teal ml-3"
                 >
                   Contact Us

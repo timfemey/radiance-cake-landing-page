@@ -31,8 +31,8 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-text">
-                Radiance Cakes is a product of Radiance Bakery. Radiance Bakery
-                specializes in delivering unique and tasty bakeries for our
+                Success Snacks is a product of Eminence Businesses. Success
+                Snacks specializes in delivering unique and tasty snacks for our
                 customers.
               </div>
             </div>
@@ -94,7 +94,7 @@ export default function Footer() {
 
             {/* Copyrights note */}
             <div className="text-text text-sm mr-4">
-              &copy; Radiance Bakery. All rights reserved.
+              &copy; Success Snacks. All rights reserved.
             </div>
           </div>
         </div>
