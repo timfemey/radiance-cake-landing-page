@@ -1,6 +1,6 @@
-import FeatImage01 from "@/public/images/cake1.jpg";
+import FeatImage01 from "@/public/images/pie1.jpg";
 import FeatImage02 from "@/public/images/cake2.jpg";
-import FeatImage03 from "@/public/images/cake3.jpg";
+import FeatImage03 from "@/public/images/chin1.jpg";
 
 export default function Zigzag() {
   return (
@@ -13,7 +13,7 @@ export default function Zigzag() {
               Reach goals that matter
             </div>
             <h1 className="h2 mb-4 text-header">
-              Cakes that could light up your day
+              Bakeries that could light up your day
             </h1>
             <p className="text-xl text-text">
               every slice is a symphony of flavors and each creation is
@@ -52,8 +52,8 @@ export default function Zigzag() {
                   </h3>
                   <p className="text-xl text-text mb-4">
                     Our commitment to precision ensures a perfect balance in
-                    every bite, creating a culinary masterpiece where each cake
-                    layered doesnt mix giving you the true delight of multiple
+                    every bite, creating a culinary masterpiece where each layer
+                    doesnt mix giving you the true delight of multiple
                     sensations
                   </p>
                   <ul className="text-lg text-text -mb-2">
@@ -65,7 +65,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Top Notch Frosting Layers</span>
+                      <span>Top Notch Layers</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -75,7 +75,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Well Stacked Cakes</span>
+                      <span>Well Stacked Design</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -134,7 +134,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Attentive to details in our cakes</span>
+                      <span>Attentive to details </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -192,8 +192,8 @@ export default function Zigzag() {
                     Unmatched Quality Assurance
                   </h3>
                   <p className="text-xl text-text mb-4">
-                    At Radiance Cakes, quality is our signature. We source the
-                    finest ingredients to create cakes that not only look and
+                    At Success Snacks, quality is our signature. We source the
+                    finest ingredients to create snacks that not only look and
                     taste exceptional but also adhere to the highest standards
                     of freshness and quality. Trust us to deliver a consistently
                     superior culinary experience with every slice.
@@ -207,7 +207,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Cakes that just tatste right happens with us</span>
+                      <span>Snacks that just tatste right happens with us</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -227,7 +227,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Say No⛔ to Hard Dry Cakes</span>
+                      <span>Say No⛔ to Hard Dry Snacks</span>
                     </li>
                   </ul>
                 </div>

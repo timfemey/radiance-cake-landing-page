@@ -11,8 +11,8 @@ export default function Testimonials() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4 text-header">Don't take our word for it</h2>
             <p className="text-xl text-text">
-              Some of our customers reviews on our cakes, They tried it once and
-              kept comig back😉
+              Some of our customers reviews on our snacks, They tried it once
+              and kept comig back😉
             </p>
           </div>
 
@@ -45,7 +45,7 @@ export default function Testimonials() {
                 I ordered a cake for my daughter's birthday, and oh my goodness,
                 it was pure magic! The layers were like a symphony of flavors,
                 and the presentation was so beautiful that we almost didn't want
-                to cut into it. Radiance Cakes truly knows how to turn a
+                to cut into it. Success Snacks truly knows how to turn a
                 celebration into an unforgettable experience. Can't wait for the
                 next occasion to order another masterpiece!
               </blockquote>
@@ -85,12 +85,12 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-white grow">
-                I consider myself a cake connoisseur, and Radiance Cakes
-                exceeded all expectations! The cake was not only delicious, but
-                the attention to detail in the design was phenomenal. It was
-                like a work of art that I almost felt guilty devouring. Thank
-                you for making our special day even more memorable. You've
-                gained a customer for life
+                I consider myself a Meat and Chicken Pie connoisseur, and
+                Success Snacks exceeded all expectations! The pies was not only
+                delicious, but the attention to detail in the design was
+                phenomenal. It was like a work of art that I almost felt guilty
+                devouring. Thank you for making our special day even more
+                memorable. You've gained a customer for life
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">
@@ -130,13 +130,13 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-white grow">
-                I recently ordered a cake for a last-minute celebration, and
-                Radiance Cakes went above and beyond. Not only did they deliver
-                on time, but the cake was an absolute showstopper. Moist,
-                flavorful, and beautifully crafted. The customer service was
-                exceptional, making the entire experience stress-free. This is
-                hands down the best cake I've ever had – kudos to the amazing
-                team!
+                I recently ordered a bunch of pancakes for a last-minute
+                celebration, and Success Snacks went above and beyond. Not only
+                did they deliver on time, but the pancakes was an absolute
+                showstopper. Moist, flavorful, and beautifully crafted. The
+                customer service was exceptional, making the entire experience
+                stress-free. This is hands down the best pancake I've ever had –
+                kudos to the amazing team!
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Chinedu </cite>

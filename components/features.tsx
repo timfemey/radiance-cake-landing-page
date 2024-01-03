@@ -9,7 +9,7 @@ export default function Features() {
               Tastes that will delight your day 🤩
             </h2>
             <p className="text-xl text-text">
-              Radiance Cakes 🎂 is your No. 1 stop for your different cakes of
+              Success Snacks 🍕 is your No. 1 stop for your different snacks of
               different sizes at affordable prices too 😋
             </p>
           </div>
@@ -51,10 +51,10 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Fast Delivery </h4>
               <p className="text-lg text-text text-center">
-                Indulge in the irresistible delight of our delectable cakes with
-                the added convenience of swift and seamless delivery. At
-                Radiance Cakes, we take pride in delivering not just exceptional
-                cakes but also a promise of prompt and reliable service
+                Indulge in the irresistible delight of our delectable snacks
+                with the added convenience of swift and seamless delivery. At
+                Success Snacks, we take pride in delivering not just exceptional
+                snacks but also a promise of prompt and reliable service
               </p>
             </div>
 
@@ -92,8 +92,8 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Expert Quality</h4>
               <p className="text-lg text-text text-center">
-                Savor the artistry of exquisite indulgence with Radiance Cakes.
-                Elevate your moments with our meticulously crafted cakes, where
+                Savor the artistry of exquisite indulgence with Success Snacks.
+                Elevate your moments with our meticulously crafted snacks, where
                 every slice is a testament to our commitment to expert quality.
               </p>
             </div>
@@ -121,7 +121,7 @@ export default function Features() {
               <h4 className="h4 mb-2">NationWide Delivery</h4>
               <p className="text-lg text-text text-center">
                 Bringing the sweetness of celebration to every corner of
-                Nigeria! At Radiance Cakes, our delectable cakes are not just a
+                Nigeria! At Success Snacks, our delectable snacks are not just a
                 treat for the taste buds but a joy for the entire nation.
               </p>
             </div>
@@ -170,11 +170,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Great Customer Service</h4>
               <p className="text-lg text-text text-center">
-                we don't just bake cakes; we craft experiences. Our commitment
-                goes beyond the delicious layers to delivering exceptional
-                customer service. From the moment you place an order to the
-                first delightful bite, we are dedicated to ensuring your
-                experience is as sweet as our cakes.
+                we don't just bake snacks; we craft experiences. From the moment
+                you place an order to the first delightful bite, we are
+                dedicated to ensuring your experience is as sweet as our snacks.
               </p>
             </div>
 
@@ -201,7 +199,7 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Customer Centred</h4>
               <p className="text-lg text-text text-center">
-                our cakes are more than just desserts; they're a celebration of
+                our snacks are more than just desserts; they're a celebration of
                 you. With a genuine commitment to being customer-centered, we
                 tailor every sweet creation to your desires.
               </p>
@@ -232,9 +230,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Varieties & Layering </h4>
               <p className="text-lg text-text text-center">
-                we believe in the art of choice, and our cakes are a canvas of
+                we believe in the art of choice, and our snacks are a canvas of
                 delightful possibilities. Dive into a world of flavor with our
-                extensive array of cakes, where every slice tells a unique
+                extensive array of snacks, where every slice tells a unique
                 story.
               </p>
             </div>

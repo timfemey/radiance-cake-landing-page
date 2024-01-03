@@ -21,7 +21,7 @@ export default function ChatUs() {
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 <a
                   className="btn text-text bg-gray-600 hover:bg-gray-700 shadow"
-                  href="https://api.whatsapp.com/send?phone=2347067907949&text=Hi,I would like to order cake"
+                  href="https://api.whatsapp.com/send?phone=2348122116509&text=Hi,I like your website"
                 >
                   Chat us on Whatsapp 💬
                 </a>
